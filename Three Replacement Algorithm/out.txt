@@ -1,0 +1,40 @@
+***when n is 1,the lack page num is as follows***
+	OPT lack page:90
+	LRU lack page:90
+	FIFO lack page:90
+***when n is 2,the lack page num is as follows***
+	OPT lack page:77
+	LRU lack page:79
+	FIFO lack page:80
+***when n is 3,the lack page num is as follows***
+	OPT lack page:72
+	LRU lack page:69
+	FIFO lack page:67
+***when n is 4,the lack page num is as follows***
+	OPT lack page:61
+	LRU lack page:59
+	FIFO lack page:59
+***when n is 5,the lack page num is as follows***
+	OPT lack page:49
+	LRU lack page:51
+	FIFO lack page:47
+***when n is 6,the lack page num is as follows***
+	OPT lack page:40
+	LRU lack page:42
+	FIFO lack page:39
+***when n is 7,the lack page num is as follows***
+	OPT lack page:29
+	LRU lack page:27
+	FIFO lack page:30
+***when n is 8,the lack page num is as follows***
+	OPT lack page:20
+	LRU lack page:20
+	FIFO lack page:20
+***when n is 9,the lack page num is as follows***
+	OPT lack page:15
+	LRU lack page:12
+	FIFO lack page:12
+***when n is 10,the lack page num is as follows***
+	OPT lack page:10
+	LRU lack page:10
+	FIFO lack page:10
